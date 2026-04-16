@@ -1,29 +1,17 @@
-Inventory app
-==================================
+Название приложения: Inventory app
 
-Solution code for Android Basics with Compose.
+Разработчик: Фаерберг Марк
 
-Introduction
-------------
-
-This app is an Inventory tracking app. Demos how to add, update, sell, and delete items from the local database.
-This app demonstrated the use of Android Jetpack component [Room](https://developer.android.com/training/data-storage/room) database.
-The app also leverages [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel),
-[Flow](https://developer.android.com/kotlin/flow),
-and [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/).
-
-Pre-requisites
---------------
-
-You need to know:
-- How to create and use composables.
-- How to navigate between composables, and pass data between them.
-- How to use architecture components including ViewModel, Flow, StateFlow and StateUi.
-- How to use coroutines for long-running tasks.
-- SQLite database and the SQLite query language
+Приложение представляет собой инвентарь, в который можно добавлять предметы с ценой и количеством, они будут сохраняться в базу данных с помощью Room.
 
 
-Getting Started
----------------
+<img width="279" height="587" alt="Снимок экрана 2026-04-16 в 10 16 24" src="https://github.com/user-attachments/assets/88263815-5043-40e4-a853-975a5e957aad" />
 
-1. Download and run the app.
+
+<img width="280" height="593" alt="Снимок экрана 2026-04-16 в 10 16 40" src="https://github.com/user-attachments/assets/3a191733-f30d-4dc1-8042-1541c6466ed4" />
+
+
+Просмотр Базы Данных
+
+
+<img width="1324" height="193" alt="Снимок экрана 2026-04-16 в 10 17 31" src="https://github.com/user-attachments/assets/797fd3da-ddfc-437d-99ea-c88a06957d9d" />
